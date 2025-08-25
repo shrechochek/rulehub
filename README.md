@@ -5,6 +5,7 @@
 *Просто хранилка маркдауна без возможности регистрации*
 
 ## ЗАПУСК
+Создать .env на основе .env.example
 ```
 docker compose pull
 docker compose up -d
